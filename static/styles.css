@@ -1,0 +1,46 @@
+h1{
+    color:lavender;
+}
+
+body{
+   background-color:#00695c;
+   
+   margin-top:2%;
+   margin-left:10%;
+   margin-right:10%;
+}
+
+.header-section{
+    border-style: hidden;
+    
+}
+
+.login-section {
+    background-color: white;
+     width:40%;
+     margin-left:30%;
+     height:400px;
+     margin-right: 30%;
+    
+}
+
+.login-section h2 {
+    font-size: 2em;
+    margin:20px;
+}
+
+.form-group{
+    padding: 20px;
+    
+}
+.form-field{
+    width:80%;
+    height:20px;
+    padding:5px
+}
+.form-label{
+    font-family:sans-serif;
+    font-weight:lighter;
+    font-style: inherit;
+    
+}
